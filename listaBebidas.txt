@@ -2,3 +2,6 @@ Cerveza
 Ron Cola
 Calimocho
 Cocacola
+Monster Piña
+Monster Mango
+Monster Cereza
