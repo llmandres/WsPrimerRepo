@@ -2,3 +2,6 @@ Cerveza
 Ron Cola
 Calimocho
 Cocacola
+Fanta de Naranja
+Fanta de Limon
+Fanta de Uva
